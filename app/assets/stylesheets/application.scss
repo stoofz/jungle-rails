@@ -125,3 +125,11 @@ form.button_to {
   display: flex;
   justify-content: center;
 }
+
+.signed-in {
+  display: flex;
+  flex-direction: column;
+  margin-top: 0.4em;
+  color:#f38792;
+
+}
